@@ -1,0 +1,41 @@
+body {
+  background-image: url(./images/image.jpg);
+}
+
+.expense{
+  float: left;
+  width: 30%;
+  border-right: 0.5px black solid;
+  height: 100vh;
+}
+
+.expenselist{
+  float:right;
+  width: 70%;
+}
+
+h3 {
+  margin-left: 534px;
+  color: antiquewhite;
+}
+
+.inpu{
+  width: 80%;
+  height: 40px;
+  color: black;
+  margin-left: 125px;
+}
+
+label{
+  margin-top: 40px;
+  margin-left: 125px;
+  font-family: comic Arial, Helvetica, sans-serif ;
+  font-weight: lighter;
+  color: black;
+}
+
+.but {
+  margin-left: 126px;
+  margin-top: 15px;
+}
+
